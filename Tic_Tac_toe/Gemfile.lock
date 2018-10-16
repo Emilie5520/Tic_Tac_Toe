@@ -9,7 +9,7 @@ GEM
     rake (10.5.0)
 
 PLATFORMS
-  ruby
+  ruby '2.5.1'
 
 DEPENDENCIES
   Tic_Tac_toe!
